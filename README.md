@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=dark&cache_seconds=14400&v=46" />
     <source media="(prefers-color-scheme: light)" srcset="https://hazy-readme-cards.vercel.app/api/header?theme=light&cache_seconds=14400&v=46" />
-    <img src="https://hazy-readme-cards.vercel.app/api/header?theme=dark&cache_seconds=14400&v=46" width="900" style="max-width: 100%; height: auto;" alt="Kyrell Santillan — Hazy019" />
+    <img src="https://hazy-readme-cards.vercel.app/api/header?theme=dark&cache_seconds=14400&v=46" width="900" style="max-width: 100%; height: auto;" alt="Link H. Ackerman" />
   </picture>
 
   <!-- 2. Profile Analytics Card -->
