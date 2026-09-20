@@ -18,6 +18,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 data-importer="text" align="center">The Languages, Frameworks and Tools I use</h2>
 
 ###
