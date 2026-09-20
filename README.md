@@ -17,6 +17,7 @@
 <p data-importer="text" align="left">- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.<br>- I'm currently working as a Web3 Economic Consultant.<br>- I'm currently learning Rust<br>- Goals: Finishing The Magnum Opus</p>
 
 ###
+###
 
 <h2 data-importer="text" align="center">The Languages, Frameworks and Tools I use</h2>
 
