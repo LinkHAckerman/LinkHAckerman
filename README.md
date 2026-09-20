@@ -4,7 +4,7 @@
 
 <h1 data-importer="text" align="left">Hey you, you're finally awake.</h1>
 
-##
+###
 
 <p data-importer="text" align="left">My name is Link H. Ackerman and this is my GitHub.</p>
 
@@ -12,7 +12,7 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-##
+###
 
 <p data-importer="text" align="left">- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.<br>- I'm currently working as a Web3 Economic Consultant.<br>- I'm currently learning Rust<br>- Goals: Finishing The Magnum Opus</p>
 
