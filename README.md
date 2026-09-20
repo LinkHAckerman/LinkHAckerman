@@ -65,7 +65,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/LinkHAckerman/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
