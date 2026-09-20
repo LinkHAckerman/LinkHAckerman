@@ -2,7 +2,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hey you, you're finally awake.</h1>
+<h1 data-importer="text" align="left" style="border-bottom: none;">Hey you, you're finally awake.</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left" style="border-bottom: none;">About me</h2>
 
 ###
 
