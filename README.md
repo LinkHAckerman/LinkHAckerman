@@ -81,7 +81,10 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LinkHAckerman&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/activity-graph-output/activity-graph.svg?radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/trophy-output/trophy.svg?theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -97,5 +100,9 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@LinkHAckerman/2" alt="Medium post 3"  />
   </a>
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/snake-output/snake.svg" alt="Snake animation" />
 
 ###
