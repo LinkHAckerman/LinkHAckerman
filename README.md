@@ -1,4 +1,4 @@
-<img data-importer="image" align="left" height="330" src="https://i.postimg.cc/MHd2tr6Y/brandbird-polaroid-(2).png"  />
+<img data-importer="image" align="left" height="268" src="https://i.postimg.cc/MHd2tr6Y/brandbird-polaroid-(2).png"  />
 
 ###
 
@@ -14,9 +14,8 @@
 
 ###
 
-<p data-importer="text" align="left">- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.<br>- I'm currently working as a Web3 Economic Consultant.<br>- I'm currently learning Rust<br>- Goals: Finishing The Magnum Opus</p>
+<p data-importer="text" align="left">- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.</p>
 
-###
 ###
 
 <h2 data-importer="text" align="center">The Languages, Frameworks and Tools I use</h2>
@@ -75,17 +74,15 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=LinkHAckerman.LinkHAckerman&"  />
-</div>
+<img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=LinkHAckerman.LinkHAckerman&"  />
 
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LinkHAckerman&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/activity-graph-output/activity-graph.svg?radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=LinkHAckerman&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3&user=LinkHAckerman" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/trophy-output/trophy.svg?theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/activity-graph-output/activity-graph.svg?radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
