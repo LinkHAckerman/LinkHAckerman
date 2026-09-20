@@ -1,4 +1,4 @@
-<img data-importer="image" align="left" height="268" src="https://i.postimg.cc/MHd2tr6Y/brandbird-polaroid-(2).png"  />
+<img data-importer="image" align="left" height="330" src="https://i.postimg.cc/MHd2tr6Y/brandbird-polaroid-(2).png"  />
 
 ###
 
@@ -14,10 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">
-- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.
-- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.
-- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.</p>
+<p data-importer="text" align="left">- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.<br>- I'm currently working as a Web3 Economic Consultant.<br>- I'm currently learning Rust<br>- Goals: Finishing The Magnum Opus</p>
 
 ###
 
