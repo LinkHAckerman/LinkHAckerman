@@ -81,7 +81,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  ![Stats](./profile/stats.svg)
+  <!--<img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=LinkHAckerman&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3&user=LinkHAckerman" height="150" alt="streak graph"  />
   <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=LinkHAckerman&theme=juicyfresh&margin-w=8&margin-h=8&column=-1)](https://github.com/ryo-ma/github-profile-trophy) -->
   <!-- <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/trophy-output/trophy.svg?theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
