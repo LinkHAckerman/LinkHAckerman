@@ -80,7 +80,7 @@
 
 ###
 
-![Stats](./profile/stats.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LinkHAckerman&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=LinkHAckerman&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=highcontrast)
 
 <div data-importer="stats" align="center">
   <!--<img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
