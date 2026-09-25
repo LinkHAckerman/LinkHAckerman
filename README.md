@@ -86,6 +86,7 @@
 
 <div data-importer="stats" align="center">
   
+<img data-importer="snake" src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/snake-output/snake.svg" alt="Snake animation" />
 
 
 
@@ -111,9 +112,5 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@LinkHAckerman/2" alt="Medium post 3"  />
   </a>
 </div>-->
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/snake-output/snake.svg" alt="Snake animation" />
 
 ###
