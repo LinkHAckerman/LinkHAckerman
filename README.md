@@ -78,6 +78,9 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-analytics-incog.vercel.app/api?username=LinkHAckerman" alt="GitHub Analytics" />
+</p>
 
 ###
 
