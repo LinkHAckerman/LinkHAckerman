@@ -1,4 +1,4 @@
-<div align="center">  <img src="header.svg" /> </div>
+<img src="header.svg" width="100%" alt="Link H. Ackerman, crypto prodigy" />
 
 ###
 
