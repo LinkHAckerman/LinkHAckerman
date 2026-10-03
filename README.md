@@ -30,6 +30,10 @@
 
 ###
 
+<img align="right" height="180"
+     src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2"
+     alt="languages graph" />
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" />
@@ -52,10 +56,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cobol/cobol-original.svg" width="50px"/>
-</div>
-
-<div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -96,6 +96,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50px"/>
+</div>
 
 ###
 
