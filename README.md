@@ -109,10 +109,8 @@
   <img src="https://github-analytics-incog.vercel.app/api?username=LinkHAckerman&theme=github_dark&profile=false" alt="GitHub Analytics" />
 </div>
 
-###
-
 <div data-importer="stats" align="center">
-  
 <img data-importer="snake" src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
