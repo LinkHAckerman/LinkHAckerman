@@ -30,44 +30,28 @@
 
 ###
 
-<div data-importer="techs">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ballerina/ballerina-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apl/apl-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clojurescript/clojurescript-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cobol/cobol-original.svg" width="50px"/>
 </div>
 
 <div data-importer="stats" align="right">
@@ -80,7 +64,38 @@
 
 ###
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg"/>
+</div>
+
 <h2 data-importer="text">My Tools:</h2>
+
+###
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/babylonjs/babylonjs-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50px"/>
 
 ###
 
