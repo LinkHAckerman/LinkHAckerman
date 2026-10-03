@@ -26,11 +26,11 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center">The Languages, Frameworks and Tools I use</h2>
+<h2 data-importer="text" align="center">My Languages, Frameworks and Tools I use</h2>
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -70,11 +70,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
 
-###
-
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="right">
   <img src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
+
+###
+
+<h2 data-importer="text">My Frameworks:</h2>
+
+###
+
+<h2 data-importer="text">My Tools:</h2>
 
 ###
 
