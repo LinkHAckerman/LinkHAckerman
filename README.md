@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50px"/>
+  <img src="https://lolcode.org/img/logo.png?v=3" width="50px"/> <!-- LOLCODE -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px"/>
