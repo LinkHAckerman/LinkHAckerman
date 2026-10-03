@@ -19,7 +19,8 @@
 ###
 
 <p align="left">
-     - I've mined and invested in several <b>Crypro</b>s since 2008. All from <b>BTC</b> and <b>ETH</b> to <b>DOLZ</b>.<br>
+     - I've mined and invested in several <b>Crypro</b>s since 2008.<br>
+     - I got an extensive portfolio with everything from <b>BTC</b> & <b>ETH</b> to <b>DOGE</b> & <b>DOLZ</b>.<br>
      - I'm the <b>Chief Executive Officer</b> (CEO) of <b>FCX Trading Ltd</b>.<br>
      - I've got previous experience working as a <b>Web3 Economic Consultant</b> (WEC).<br>
      - I'm currently learning <b>Rust</b>.<br>
