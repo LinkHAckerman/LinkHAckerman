@@ -66,14 +66,14 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="50px"/>
 </div>
 
 <h2 data-importer="text">My Tools:</h2>
