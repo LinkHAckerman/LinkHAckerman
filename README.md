@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center">My Languages:</h2>
+<h2 data-importer="text">My Languages:</h2>
 
 ###
 
