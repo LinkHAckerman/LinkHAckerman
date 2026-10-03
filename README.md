@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center">My Languages, Frameworks and Tools I use</h2>
+<h2 data-importer="text" align="center">My Languages:</h2>
 
 ###
 
