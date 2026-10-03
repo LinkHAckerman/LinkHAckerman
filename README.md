@@ -18,12 +18,14 @@
 
 ###
 
-<p data-importer="text" align="left">
-     - I've mined and invested in several <b>Crypro</b>s since 2008. All from <b>BTC</b> and <b>ETH</b> to <b>DOGE</b> and <b>DOLZ</b>.<br>
+<p align="left">
+     - I've mined and invested in several <b>Crypro</b>s since 2008. All from <b>BTC</b> and <b>ETH</b> to <b>DOLZ</b>.<br>
      - I'm the <b>Chief Executive Officer</b> (CEO) of <b>FCX Trading Ltd.</b><br>
      - I've got previous experience working as a <b>Web3 Economic Consultant</b>b> (WEC).<br>
      - I'm currently learning <b>Rust</b>.<br>
-     - Goals: Finishing [<b>The Magnum Opus</b>](https://github.com/LinkHAckerman/MasterProject)
+     - Goals: Finishing <b><a href="https://github.com">MAGNUM OPUS</a></b>
+</p>
+     
 
 <img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=LinkHAckerman.LinkHAckerman&"  />
 
