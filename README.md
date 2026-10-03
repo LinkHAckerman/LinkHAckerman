@@ -18,7 +18,11 @@
 
 ###
 
-<p data-importer="text" align="left">- I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.<br>- I'm currently working as a Web3 Economic Consultant.<br>- I'm currently learning Rust<br>- Goals: Finishing The Magnum Opus</p>
+<p data-importer="text" align="left">
+     - I've mined and invested several Crypros since 2008. All from BTC and ETH to DOGE and DOLZ.<br>
+     - I'm currently working as a Web3 Economic Consultant.<br>
+     - I'm currently learning Rust<br>- Goals: Finishing The Magnum Opus
+</p>
 
 <img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=LinkHAckerman.LinkHAckerman&"  />
 
@@ -110,7 +114,7 @@
 </div>
 
 <div data-importer="stats" align="center">
-<img data-importer="snake" src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/snake-output/snake.svg" alt="Snake animation" />
+     <img data-importer="snake" src="https://raw.githubusercontent.com/LinkHAckerman/LinkHAckerman/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
