@@ -93,7 +93,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50px"/>
 </div>
