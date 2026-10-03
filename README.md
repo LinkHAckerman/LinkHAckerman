@@ -24,7 +24,6 @@
      - I've got previous experience working as a <b>Web3 Economic Consultant</b>b> (WEC).<br>
      - I'm currently learning <b>Rust</b>.<br>
      - Goals: Finishing [<b>The Magnum Opus</b>](https://github.com/LinkHAckerman/MasterProject)
-</p>
 
 <img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=LinkHAckerman.LinkHAckerman&"  />
 
