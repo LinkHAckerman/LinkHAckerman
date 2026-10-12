@@ -30,7 +30,12 @@
 
 <img data-importer="profile-views" align="center" src="https://visitor-badge.laobi.icu/badge?page_id=LinkHAckerman.LinkHAckerman&"  />
 
-###
+---
+
+![CEO of](https://img.shields.io/badge/CEO%20of-FCX%20Trading%20Ltd.-fc7202)
+![Hentai](https://img.shields.io/badge/Hentai-Connoisseur-fea4cb)
+
+---
 
 <br clear="both">
 
