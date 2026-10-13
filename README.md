@@ -34,6 +34,10 @@
 
 ![CEO of](https://img.shields.io/badge/CEO%20of-FCX%20Trading%20Ltd.-fc7202)
 ![Hentai](https://img.shields.io/badge/Hentai-Connoisseur-fea4cb)
+[![Contact me on](https://img.shields.io/badge/Contact%20me%20on-Rule34-aae5a4)](https://rule34.xxx/index.php?page=account&s=profile&id=6289135)
+![WEC for](https://img.shields.io/badge/WEC%20for-10%20Years-268f00)
+[![Password](https://img.shields.io/badge/Password-Hub-fc7202)](https://brage1025.github.io/Passwordhub/)
+[![Discord](https://img.shields.io/badge/Discord-Message%20Me-brightgreen?style=social&logo=Discord)](https://discordapp.com/users/700879483757920287)
 
 ---
 
