@@ -43,6 +43,19 @@
 
 <br clear="both">
 
+<details>
+<summary><h2>Certifications</h2></summary>
+
+<h3>MongoDB</h3>
+
+<a href="https://www.credly.com/badges/98d1ba82-e26b-4339-9f47-21544bc7abb7/public_url">
+  <img src="assets/mongodb-badge.png" alt="MongoDB certification" width="150">
+</a>
+
+</details>
+
+###
+
 <h2 data-importer="text">My Languages:</h2>
 
 ###
@@ -118,7 +131,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Stats</h2>
+<h2 data-importer="text" align="center">Stats:</h2>
 
 ###
 
