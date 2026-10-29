@@ -41,19 +41,6 @@
 
 ---
 
-<br clear="both">
-
-<details>
-<summary><h2>Certifications</h2></summary>
-
-<h3>MongoDB</h3>
-
-<a href="https://www.credly.com/badges/98d1ba82-e26b-4339-9f47-21544bc7abb7/public_url">
-  <img src="assets/mongodb-badge.png" alt="MongoDB certification" width="150">
-</a>
-
-</details>
-
 ###
 
 <h2 data-importer="text">My Languages:</h2>
@@ -128,6 +115,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50px"/>
 </div>
+
+###
+
+<details>
+<summary><h2>Certifications:</h2></summary>
+
+<h3>MongoDB:</h3>
+
+<a href="https://www.credly.com/badges/98d1ba82-e26b-4339-9f47-21544bc7abb7/public_url">
+  <img src="certifications/MongoDB/badges/building-ai-agents-with-mongodb-Badge.png" alt="Building AI Agents with MongoDB" title="Building AI Agents with MongoDB" width="150">
+</a>
+
+</details>
 
 ###
 
