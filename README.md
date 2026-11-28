@@ -59,6 +59,7 @@
   <img src="https://lolcode.org/img/logo.png?v=3" width="50px"/> <!-- LOLCODE -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50px"/>
