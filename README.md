@@ -91,6 +91,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="50px"/>
 </div>
@@ -144,6 +145,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50px"/>
 </div>
 
 ###
