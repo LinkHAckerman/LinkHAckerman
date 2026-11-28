@@ -94,6 +94,35 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" width="50px"/>
 </div>
 
+###
+
+<h2 data-importer="text">Crypto:</h2>
+
+###
+
+<div>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/rfox.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/eth.svg" width="50px"/>
+  <img src="https://github.com/LinkHAckerman/LinkHAckerman/blob/main/profile/solana-logo.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/btc.svg" width="50px"/>
+  <img src="https://github.com/LinkHAckerman/LinkHAckerman/blob/main/profile/DOLZ.png" width="50px"/>
+  <img src="https://github.com/LinkHAckerman/LinkHAckerman/blob/main/profile/tether.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/unibot.svg" width="50px"/>
+  <img src="https://github.com/LinkHAckerman/LinkHAckerman/blob/main/profile/lliCoin.png" width="50px"/>
+  <img src="https://github.com/LinkHAckerman/LinkHAckerman/blob/main/profile/SafeMoon_Logo.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/uma.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/torn.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/tnc.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/titan.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/spank.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/doge.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/frm.svg" width="50px"/>
+  <img src="https://github.com/Cryptofonts/cryptoicons/blob/master/assets/shib.svg" width="50px"/>
+  <img src="https://nypost.com/wp-content/uploads/sites/2/2025/01/home-https-truthsocial-com-realdonaldtrump-96908899_14ba0e.jpg?quality=75&strip=all&w=660" width="50px"/>
+</div>
+
+###
+
 <h2 data-importer="text">My Tools:</h2>
 
 ###
